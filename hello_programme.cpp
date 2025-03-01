@@ -3,5 +3,6 @@
 using namespace std;
 class vector1{
     vector<int>v1={10,20,30,40,50};
+    map<string,int> map1;
 
 };
