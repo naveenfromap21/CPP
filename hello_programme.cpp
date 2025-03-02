@@ -6,3 +6,15 @@ class vector1{
     map<string,int> map1;
 
 };
+class base
+{
+    public:
+    void print()
+    {
+        cout<<"base class overloading"<<endl;
+    }
+}
+int main()
+{
+
+}
